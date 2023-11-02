@@ -1,4 +1,4 @@
-Free Download Source Code "Tailor Management Software"
+Free Download Source Code "Rakia Tailor Management Software"
 
 FIRST Download
 
@@ -10,7 +10,7 @@ FIRST Download
 
 4. Download the zip file/ download winrar
 
-5. Extract the file and copy "Tailor Management Software" folder
+5. Extract the file and copy "Rakia Tailor Management Software" folder
 
 6.Paste inside root directory/ where you install xammp local disk C: drive D: drive E: paste: (for xampp/htdocs, 
 
@@ -29,6 +29,3 @@ Tailor Management System
 Admin
 user: admin
 pass: admin
-
-****** https:1sourcecodr.blogspot.com ******
-Subcribe my You tube Channel **** 1 Source code ****
